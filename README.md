@@ -1,2 +1,2 @@
-Initial Agentbay Website, first version and still live. 
-Rebranded as AgentBase and will be live soon
+## AgentBase website
+Verson 1 of agentbase website, version 2 of agentbay website
